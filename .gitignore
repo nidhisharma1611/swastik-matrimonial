@@ -1,0 +1,14 @@
+node_modules/
+.node_modules-corrupt-*/
+.npm-cache/
+.next/
+build/
+out/
+coverage/
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+*.tsbuildinfo
+.DS_Store
+public/media/generated/
